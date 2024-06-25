@@ -1,8 +1,6 @@
 # Thesis_codes_2024
 This is a repository that containts a python code that I created to evaluate the favourability of reactions based on the Gibbs free energy difference ΔG
 
-# README: Evaluating Reaction Favorability Using Statistical Mechanics
-
 ## Introduction
 To evaluate the favorability of reactions, we employed thermodynamics, specifically statistical mechanics. We calculated the Gibbs free energy change (ΔG) for the reactions concerning temperatures and pressures specified in our adopted protoplanetary disk model.
 
